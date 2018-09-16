@@ -1,3 +1,3 @@
 # hello-world
-Louis is the best,
-I would realy like to learning gethub, I enjoy working with computers and the IT field
+I am here to learn
+I would  like to learn gethub,  and learn how to coce. I enjoy working with computers and would love to learn all aspects of it.
